@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) *(Add your deployment link here)*
+[View Live Demo](#) sharon2185.github.io/portfolio
 
 ## ✨ Features
 
